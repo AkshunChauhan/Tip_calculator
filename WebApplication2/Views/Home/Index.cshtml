@@ -13,9 +13,7 @@
             Cost of meal:
             <input type="text" asp-for="CostofMeale" />
             <span asp-validation-for="CostofMeale"></span>
-            
         </label>  
-
     </div>
     <div class="button-container">
     @if (Model != null)
@@ -25,8 +23,6 @@
             <p>25% Tip: @Model.CostofMeale3.ToString("C")</p>
 
         }
-
-
         <button type="submit">Calculate</button>
         <a asp-action="Clear">Clear</a>
     </div>

@@ -1,5 +1,7 @@
 
 /* wwwroot/css/site.css */
+
+/* Style for the main container */
 .container {
     max-width: 650px;
     margin: auto;
@@ -7,12 +9,14 @@
     border: 2px solid #000000;
 }
 
+/* Style for labels */
 label {
     display: block;
     margin-bottom: 1px;
     align-content: center;
 }
 
+/* Style for heading */
 h1 {
     font-size: 50px;
     color: #4CAF50;
@@ -20,10 +24,12 @@ h1 {
     margin-top: 0;
 }
 
+/* Style for input, button, and anchor elements */
 input, button, a {
     margin-bottom: 10px;
 }
 
+/* Style for buttons */
 button {
     background-color: #4CAF50;
     color: white;
@@ -33,16 +39,19 @@ button {
     cursor: pointer;
 }
 
+/* Style for container of buttons */
 .button-container {
     text-align: center;
 }
 
+/* Style for anchor tags */
 a {
     color: #4CAF50;
     text-decoration: none;
     margin-left: 10px;
 }
 
+    /* Hover style for anchor tags */
     a:hover {
         text-decoration: underline;
     }

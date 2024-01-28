@@ -28,3 +28,4 @@ C:\Users\akshun chauhan\Desktop\semester 3\C#.NET\WebApplication2\WebApplication
 C:\Users\akshun chauhan\Desktop\semester 3\C#.NET\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
 C:\Users\akshun chauhan\Desktop\semester 3\C#.NET\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
 C:\Users\akshun chauhan\Desktop\semester 3\C#.NET\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+C:\Users\akshun chauhan\Desktop\semester 3\C#.NET\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.sourcelink.json
